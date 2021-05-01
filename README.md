@@ -11,13 +11,31 @@ Look it on GitHub
 
 ---
 
->   **What is it?**
+## Summary
+
+* [Simple-Progress-Bar](#simple-progress-bar)
+    * [Summary](#summary)
+    * [What is it?](#what-is-it)
+    * [Why should you use this one?](#why-should-you-use-this-one)
+    * [What it looks like](#what-it-looks-like)
+    * [The Code](#the-code)
+    * [Usage](#usage)
+    * [What is customizable?](#what-is-customizable)
+    * [What is *not* customizable?](#what-is-not-customizable)
+    * [Specifications](#specifications)
+    * [License](#license)
+
+<!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
+
+
+
+## What is it?
 
 It is a progress bar you can use in any king of projects in Python, without installing anything.
 
 
 
->   **Why should you use this one?**
+## Why should you use this one?
 
 Because
 
@@ -28,7 +46,7 @@ Because
 
 
 
->   **What it looks like**
+## What it looks like
 
 The default progression bar looks like this
 
@@ -36,7 +54,7 @@ The default progression bar looks like this
 
 
 
->   **The Code**
+## The Code
 
 This is what you will have to copy-paste in your code
 
@@ -52,7 +70,7 @@ def progress_bar(count,total,size=100,sides="[]",full='#',empty='.',prefix=""):
 
 
 
->   **Usage**
+## Usage
 
 Here is an example of how you can use it
 
@@ -66,7 +84,7 @@ Please note that, for better rendering, the last call should be done with `count
 
 
 
->   **What is customizable?**
+## What is customizable?
 
 You can customize the **prefix**, the **side** characters, the **done part** and the **remaining part** characters and the **width** of the bar, for example
 
@@ -80,15 +98,15 @@ gives the following bar
 
 
 
->   **What is *not* customizable?**
+## What is *not* customizable?
 
 A Unix-like **dynamic prefix**, **colors** and the `i/n` format **advancement** can't be modified without changing the function's code. Feel free to fork this project or create a pull request if you want to add those features.
 
 
 
->   **Specifications**
+## Specifications
 
-You can find those specifications in the function's docstring in the source code:
+You can find those specifications in the function's docstring in the source code
 
 * **count** (*int*) : the current advancement (must be smaller or equal than *total*)
 * **total** (*int*) : the total amount
@@ -96,10 +114,10 @@ You can find those specifications in the function's docstring in the source code
 * **sides** (*str*) : the characters to print at the beginning and at the end of the progress bar (must be at least two characters long)
 * **full** (*str*) : the character to print for the done part of the bar (should be one character long)
 * **empty** (*str*) : the character to print for the remaining part of the bar (should be one character long)
-* **prefix** (*str*) : the prefix to print before the progression bar
+* **prefix** (*str*) : the prefix to print before the progress bar
 
 
 
->   **License**
+## License
 
 The project is a small one. The code is given to the GitHub Community  for free, only under the MIT License, that is not too restrictive.
