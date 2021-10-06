@@ -1,12 +1,11 @@
 # Simple-Progress-Bar
 Une barre de progression très simple en Python, copie-collable et personnalisable, aucun import requis.
-A very simple copy-pasteable and customizable progress bar in Python, no import needed.
 
 ![](https://img.shields.io/badge/status-Finished-green) ![](https://img.shields.io/github/license/Relex12/Simple-Progress-Bar) ![](https://img.shields.io/github/repo-size/Relex12/Simple-Progress-Bar) ![](https://img.shields.io/github/languages/top/Relex12/Simple-Progress-Bar) ![](https://img.shields.io/github/last-commit/Relex12/Simple-Progress-Bar) ![](https://img.shields.io/github/stars/Relex12/Simple-Progress-Bar)
 
 Regarder sur GitHub
 
-[![Markdown-Table-of-Contents](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://github.com/Relex12/Simple-Progress-Bar)
+[![Simple-Progress-Bar](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://github.com/Relex12/Simple-Progress-Bar)
 
 [Read in English.](https://relex12.github.io/Simple-Progress-Bar)
 
@@ -24,7 +23,7 @@ Regarder sur GitHub
     * [Qu'est-ce qui est personnalisable ?](#qu'est-ce-qui-est-personnalisable-)
     * [Qu'est-ce qui *n'est pas* personnalisable ?](#qu'est-ce-qui-n'est-pas-personnalisable-)
     * [Spécifications](#spécifications)
-    * [License](#license)
+    * [Licence](#licence)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
@@ -119,6 +118,6 @@ Vous pouvez trouver ces spécifications dans la docstring de la fonction dans le
 
 
 
-## License
+## Licence
 
 Ce projet est un petit projet. Le code source est donné librement à la communauté GitHub, sous la seule licence MIT, qui n'est pas trop restrictive.

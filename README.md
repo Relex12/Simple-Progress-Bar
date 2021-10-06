@@ -5,7 +5,7 @@ A very simple copy-pasteable and customizable progress bar in Python, no import 
 
 Look it on GitHub
 
-[![Markdown-Table-of-Contents](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://github.com/Relex12/Simple-Progress-Bar)
+[![Simple-Progress-Bar](https://github-readme-stats.vercel.app/api/pin/?username=Relex12&repo=Simple-Progress-Bar)](https://github.com/Relex12/Simple-Progress-Bar)
 
 [Lire en Français.](https://relex12.github.io/fr/Simple-Progress-Bar)
 
